@@ -1,2 +1,0 @@
-#!/bin/bash
-cp -ru --update --no-clobber --target-directory= /root/holbertonschool-shell *.html

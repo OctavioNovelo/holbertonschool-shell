@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la cd /root/holbertonschool-shell/basics ls -la cd /root/holbertonschool-shell ls -la cd /root 
+ls -la /root/holbertonschool-shell/basics ls -la /root/holbertonschool-shell ls -la /root

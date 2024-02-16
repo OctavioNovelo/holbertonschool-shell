@@ -1,2 +1,2 @@
 #!/bin/bash
-rsync -ru --update --no-clobber --target-directory=/root/holbertonschool-shell *.html
+cp *.html ..

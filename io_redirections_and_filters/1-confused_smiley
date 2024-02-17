@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e "(\xf9\xd4o)'"
+echo -e "(\"\xd4o)'"
